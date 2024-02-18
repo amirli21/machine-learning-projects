@@ -5,4 +5,5 @@ This repo contains my codes for machine learning projects. I will add more proje
 
 ![clusters](https://github.com/amirli21/machine-learning-projects/blob/main/Customer%20Segmentation%20with%20KMeans/images/clusters.png)
 
-* Breast Cancer Detection with several ML models[here](https://github.com/amirli21/machine-learning-projects/tree/main/Breast%20Cancer%20Detection)
+* Breast Cancer Detection with several ML models [here](https://github.com/amirli21/machine-learning-projects/tree/main/Breast%20Cancer%20Detection)
+* Spam Classification with LSTM [here](https://github.com/amirli21/machine-learning-projects/tree/main/Spam%20Classification%20Using%20LSTM)
